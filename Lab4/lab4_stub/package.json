@@ -1,0 +1,15 @@
+{
+  "name": "lab4-546",
+  "version": "1.0.0",
+  "description": "Lab 4 for CS 546",
+  "license": "ISC",
+  "author": "Tamia Wellington 20044306",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.7.0"
+  }
+}
